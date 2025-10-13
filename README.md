@@ -37,13 +37,5 @@ The goal of this assignment is to:
 - Python 3.8+
 - Packages: `openai`, `pandas`, `fuzzywuzzy`, `matplotlib`
 
-Install requirements with:
-```bash
-pip install openai pandas fuzzywuzzy matplotlib
-```
-
-## Authors
-- Group members of the DSS Business AI course
-
 ## License
 This project is for educational purposes only.
